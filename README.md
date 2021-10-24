@@ -1,1 +1,4 @@
-# VT_RNG
+# Independent Study Project
+
+## VT_RNG
+
